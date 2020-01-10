@@ -49,7 +49,7 @@
             android:digits="0123456789"
             android:drawableLeft="@drawable/ic_call_black_24dp"
             android:drawablePadding="10dp"
-            android:hint="enter your mobile number"
+            android:hint="enter your mobile number(e.g- 9459992367)"
             android:inputType="phone"
             android:maxLength="10" />
 
